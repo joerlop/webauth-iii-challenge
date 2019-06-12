@@ -1,0 +1,11 @@
+{
+  "name": "webauth-iii-challenge",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/joerlop/webauth-iii-challenge.git",
+  "author": "joerlop <jj.erlich155@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "server": "nodemon index.js"
+  }
+}
